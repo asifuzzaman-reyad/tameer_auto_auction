@@ -37,7 +37,7 @@ class HomeScreen extends StatelessWidget {
               ),
               SizedBox(width: 8),
               Text(
-                'Search here...',
+                'Search product here...',
                 style: TextStyle(
                   color: Colors.grey,
                   fontSize: 16,
